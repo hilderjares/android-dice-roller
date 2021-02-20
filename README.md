@@ -1,4 +1,4 @@
-### Dice Roller
+## Dice Roller
 
 ### dice roller project developeted in course "Developing Android Apps with Kotlin" of udacity.
 
